@@ -16,8 +16,9 @@ color: #fff;
 }
 
 .header img{
-    width: 90px;
+    width: 100px;
     float:left;
+    border-radius: 10px;
 }
 
 .login-btn
